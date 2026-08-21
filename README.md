@@ -270,6 +270,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of serial port utility   :
+
+<img width="1600" height="798" alt="WhatsApp Image 2026-08-21 at 2 42 22 PM" src="https://github.com/user-attachments/assets/9e5e366b-cdf6-4af8-a475-75622f188405" />
+
  <img width="756" height="802" alt="Screenshot 2026-08-05 115343" src="https://github.com/user-attachments/assets/d576011d-ffa2-4898-aa5a-52b094bf1839" />
 
  
